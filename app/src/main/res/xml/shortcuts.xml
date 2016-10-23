@@ -23,7 +23,7 @@
         <intent
             android:action="com.example.android.appshortcuts.ADD_WEBSITE"
             android:targetPackage="com.example.android.appshortcuts"
-            android:targetClass="com.example.android.appshortcuts.Main"
+            android:targetClass="com.example.android.shortcutsample.Main"
             />
     </shortcut>
 </shortcuts>
